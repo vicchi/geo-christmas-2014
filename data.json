@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.043214, 48.849638]
+            },
+            "properties": {
+                "name": "Merri",
+                "index": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.741944, 33.062222]
+            },
+            "properties": {
+                "name": "Christmas",
+                "index": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.4009421, 50.8739353]
+            },
+            "properties": {
+                "name": "Evere",
+                "index": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.8761665, 45.7838613]
+            },
+            "properties": {
+                "name": "Oné",
+                "index": 4
+            }
+        }
+    ]
+}
